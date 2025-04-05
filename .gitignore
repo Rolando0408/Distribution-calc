@@ -7,3 +7,11 @@ __pycache__/
 
 # Ignorar configuraciones de VSCode
 .vscode/
+
+# Ignorar archivos generados por PyInstaller
+dist/
+build/
+*.spec
+
+# Ignorar archivos ejecutables
+*.exe
