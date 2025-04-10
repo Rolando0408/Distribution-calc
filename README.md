@@ -75,4 +75,3 @@ Este proyecto está bajo la [Licencia MIT](LICENSE). Siéntete libre de usarlo y
 ---
 
 Creado por [Rolando0408](https://github.com/Rolando0408). ¡Si tienes preguntas o sugerencias, no dudes en contactarme!
-```
